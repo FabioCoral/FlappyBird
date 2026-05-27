@@ -1,4 +1,4 @@
-# Flappy Bird Clone - Projeto Final WEB
+# Flappy Bird Clone
 
 Um clone do clássico jogo Flappy Bird, desenvolvido inteiramente com **JavaScript Vanilla (Puro)**, **HTML5 Canvas** e **CSS3**. Este projeto foi construído como Trabalho Final da disciplina de Desenvolvimento Web na UNAERP.
 
