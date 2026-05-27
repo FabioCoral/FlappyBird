@@ -16,7 +16,8 @@ class Pipe{
 
     draw(ctx) {
         if (this.imagem.complete) {
-            const alturaFixa = 800;
+
+            const alturaFixa = this.canvas.height;
 
             ctx.save();
             ctx.translate(this.x + this.width / 2, this.topHeight);
